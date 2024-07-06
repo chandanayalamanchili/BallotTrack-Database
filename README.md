@@ -1,11 +1,5 @@
 # Election Database Management System
 
-## Team 6
-- Chandana (2022101065)
-- Kriti (2022101069)
-- Jahnavi (2022101118)
-- Vivek Hruday (2022114012)
-
 ## Commands
 
 ### 1. Insert (Administrator)
@@ -68,6 +62,3 @@ Administrators can add access to other Administrators with a unique access key.
 
 ### 10. Get Report (Administrator, User)
 - Generate Report: `Generate_election_Report()` - Analyzing the relation between Election result and Campaign Finance.
-
-## Assumptions
-We have a total of 40 queries but due to duration constraint (5 min) of the video, we showed only two queries of each type.
